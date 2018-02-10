@@ -1,0 +1,11 @@
+{
+  "name": "the-cocktail/aws-polly",
+  "description": "PHP Wrapper to work with Aws Polly",
+  "require": {
+    "aws/aws-sdk-php": "^3.52",
+    "league/flysystem": "^1.0"
+  },
+  "autoload": {
+    "psr-4": { "TheCocktail\\Aws\\Polly\\": "src" }
+  }
+}
