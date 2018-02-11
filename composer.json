@@ -1,5 +1,5 @@
 {
-  "name": "the-cocktail/aws-polly",
+  "name": "the-cocktail/php-aws-polly",
   "description": "PHP Wrapper to work with Aws Polly",
   "require": {
     "aws/aws-sdk-php": "^3.52",
