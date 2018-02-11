@@ -8,7 +8,7 @@ class Speech
 
     private $outputFormat = 'mp3';
 
-    private $textType = 'ssml';
+    private $textType = 'text';
 
     private $voiceId = 'Emma'; // Emma is a female english voice. We select it as our default voice.
 
