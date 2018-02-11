@@ -1,6 +1,17 @@
 {
   "name": "the-cocktail/php-aws-polly",
   "description": "PHP Wrapper to work with Aws Polly",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Carlos Revillo",
+      "email": "crevillo@gmail.com"
+    },
+    {
+      "name": "The Ruby Room At The Cocktail",
+      "email": "ruby@the-cocktial.com"
+    }
+  ],
   "require": {
     "aws/aws-sdk-php": "^3.52",
     "league/flysystem": "^1.0"
